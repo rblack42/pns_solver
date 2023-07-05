@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# Vim
+*.swp
+*~
+
+# Python
+*.py[cod]
+.venv
+
+#Jupyter
+.ipynb_checkpoints
+
+

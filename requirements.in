@@ -1,0 +1,9 @@
+jupyter-book
+jupyter_contrib_nbextensions
+
+numpy
+sympy
+matplotlib
+pint
+
+git+https://github.com/rblack42/ipython-tikzmagic.git
